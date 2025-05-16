@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217315235845",
+    "project_id": "golog-2ac92",
+    "storage_bucket": "golog-2ac92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217315235845:android:405d9798f09a69e548e46c",
+        "android_client_info": {
+          "package_name": "vn.edu.fpt.golog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPn7MVZ93qwpC5OlBbdmSU6b-id-QbJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
